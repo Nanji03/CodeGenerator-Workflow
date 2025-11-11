@@ -12,6 +12,9 @@ It consists of three agents working together:
 
 The workflow iteratively refines the code until it passes all tests or reaches the maximum iteration limit.
 
+<img src="./Screenshot (338).png" alt="Workflow Screenshot 1" width="500"/>
+<img src="./Screenshot (339).png" alt="Workflow Screenshot 2" width="500"/>
+
 ---
 
 ## Features
