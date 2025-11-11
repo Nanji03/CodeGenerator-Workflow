@@ -40,7 +40,7 @@ pip install openai
 Run the workflow script:
 
 ```bash
-python dynamic_agentic_workflow.py
+python agentic_workflow.py
 ```
 
 1. Enter your function specification when prompted, for example:
